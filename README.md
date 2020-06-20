@@ -1,1 +1,1 @@
-Implementação de uma estrutura de dados Pilha em C
+Nova versão do projeto (v 2.0)
