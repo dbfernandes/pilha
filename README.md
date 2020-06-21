@@ -1,1 +1,1 @@
-Nova versão do projeto (v 2.0)
+Nova versão do projeto (v 3.0)
